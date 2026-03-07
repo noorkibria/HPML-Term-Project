@@ -8,7 +8,7 @@
 
 [2] Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks,” Frontiers in Neuroscience, vol. 12, 2018. doi: https://doi.org/10.3389/fnins.2018.00331
 
-[3] F. Zenke and T. P. Vogels, “The Remarkable Robustness of Surrogate Gradient Learning for Instilling Complex Function in Spiking Neural Networks,” IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 51–63, Nov. 2019. doi: 10.1109/MSP.2019.2931595
+[3](https://ieeexplore.ieee.org/document/8891809) F. Zenke and T. P. Vogels, “The Remarkable Robustness of Surrogate Gradient Learning for Instilling Complex Function in Spiking Neural Networks,” IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 51–63, Nov. 2019.
 
 [4] Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Training Deep Spiking Neural Networks Using Backpropagation,” Frontiers in Neuroscience, vol. 10, 2016. doi: 10.3389/fnins.2016.00508
 
