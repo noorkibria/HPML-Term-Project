@@ -4,9 +4,9 @@
 ---
 ## Foundational Papers
 
-[1] W. Maass, “Deep learning in spiking neural networks,” Neural Networks, vol. 121, pp. 12–24, 2019. doi: https://doi.org/10.1016/j.neunet.2018.12.002
+[1](https://doi.org/10.1016/j.neunet.2018.12.002) W. Maass, “Deep learning in spiking neural networks,” Neural Networks, vol. 121, pp. 12–24, 2019.
 
-[2] Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks,” Frontiers in Neuroscience, vol. 12, 2018. doi: https://doi.org/10.3389/fnins.2018.00331
+[2](https://doi.org/10.3389/fnins.2018.00331) Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks,” Frontiers in Neuroscience, vol. 12, 2018.
 
 [3](https://ieeexplore.ieee.org/document/8891809) F. Zenke and T. P. Vogels, “The Remarkable Robustness of Surrogate Gradient Learning for Instilling Complex Function in Spiking Neural Networks,” IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 51–63, Nov. 2019.
 
