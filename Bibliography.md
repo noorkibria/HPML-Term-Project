@@ -12,7 +12,7 @@
 
 [4](https://doi.org/10.3389/fnins.2016.00508) Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Training Deep Spiking Neural Networks Using Backpropagation,” Frontiers in Neuroscience, vol. 10, 2016.
 
-[5](https://doi.org/10.1142/S0129065709002002) W. Maass, “Networks of spiking neurons: The third generation of neural network models,” Neural Computation, vol. 10, no. 7, pp. 1659–1671, 1998.
+[5](https://doi.org/10.1142/S0129065709002002) W. Maass, “Networks of spiking neurons: The third generation of neural network models,” Neural Computation, vol. 19, no. 4, pp. 295–308, 2009.
 
 [6](https://doi.org/10.1609/aaai.v33i01.33011311) Y. Wu, L. Deng, G. Li, J. Zhu, Y. Xie, and L. Shi, “Direct Training for Spiking Neural Networks: Faster, Larger, Better,” in Proc. AAAI Conf. Artificial Intelligence, vol. 33, no. 1, pp. 1311–1318, 2019.
 
