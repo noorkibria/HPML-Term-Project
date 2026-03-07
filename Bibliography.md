@@ -20,7 +20,7 @@
 
 ## Recent Papers
 
-[8](https://doi.org/10.1145/357115) M. Davies et al., “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware,” ACM Computing Surveys, 2024.
+[8](https://doi.org/10.1145/3571155) M. Davies et al., “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware,” ACM Computing Surveys, 2024.
 
 [9](https://doi.org/10.1016/j.neucom.2025.129782) Z. Li et al., “Semi-supervised medical image segmentation using spiking neural P-like convolutional model and pseudo label-guided cross-patch contrastive learning,” Neurocomputing, 2025.
 
